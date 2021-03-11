@@ -9,4 +9,4 @@ var euroToYen = function(euroValue){
 let dollarToYen = euroToYen(dollarToEuro(137))
 console.log(dollarToYen)
 
-// console.log(137(dollarToEuro(), euroToYen()));
+// console.log(euroToYen(dollarToEuro(137))); this is the answer Jonathan (teacher) used in class
